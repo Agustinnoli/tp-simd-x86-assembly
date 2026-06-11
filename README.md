@@ -1,1 +1,0 @@
-# tp-simd-x86-assembly
